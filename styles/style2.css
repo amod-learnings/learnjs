@@ -1,0 +1,22 @@
+html {
+    font-family: 'Itim', cursive, Helvetica, sans-serif;
+    background-color: #f1f0ff;
+}
+
+body {
+    width: 800px;
+    margin: 20px auto;
+    background-color: #2bbae566;
+    padding: 0 10px 10px 20px;
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    background-color: #2bbae51c;
+    width: 60%;
+
+}
